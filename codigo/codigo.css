@@ -30,6 +30,7 @@ body{
     margin-bottom: -17px;
     padding-top: 1px;
     width: 93vw;
+    max-width: 1197px;
     }
 
 .titulo{
@@ -117,6 +118,8 @@ aside{
     box-sizing: border-box;
    margin-right: 80px;
    margin-left: 50px;
+   max-width: 200px;
+   margin: auto;
 }
 
 #itens a:hover{
