@@ -1,0 +1,216 @@
+*{}
+
+@charset "UTF-8";
+
+*{}
+
+
+
+
+body{
+    background-color: black;
+    background-image: url("https://i.pinimg.com/originals/71/49/d1/7149d185e24b7c78fe2459a39d750c5d.gif");
+    
+    
+    }
+    
+    main{
+        max-width: 1200px;
+     min-width: 300px;
+        text-align: center;
+        margin: auto;
+        color: white;
+     
+    
+    }
+    header{ 
+    background-color: rgba(206, 146, 35, 0.582);
+    box-shadow: 1px 1px 2px 2px  rgba(0, 0, 0, 0.671);
+    border-radius: 10px;
+    margin-bottom: -17px;
+    padding-top: 1px;
+    width: 93vw;
+    }
+
+.titulo{
+  
+    font-size: xx-large;  
+    background-color: whitesmoke;
+    border-radius: 20px;
+    width: 600px;
+    padding: 5px;
+    margin: auto;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    color: black;
+box-shadow: 2px 2px black;
+width: 90%;
+}
+
+
+
+
+.sites{
+
+border: 2px solid black;
+border-radius: 20px;
+box-shadow: 2px 5px 5px 5px rgba(0, 0, 0, 0.767);
+margin-bottom: 10px;
+padding-bottom: 20px;
+max-width: 1000px;
+min-width: 300px;
+    margin:  auto;
+    
+}
+.sites img{
+width: 150px;
+padding: 10px;
+margin-top: 20px;
+
+}
+
+
+
+
+aside{
+
+    background-color: rgba(255, 145, 0, 0.192);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.329);
+    color: black;
+    padding-bottom: 25px;
+    
+}
+
+#burguer{
+    background-color: rgb(97, 97, 97);
+    display: block;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+ margin: auto;
+}
+
+ #burguer:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+#itens{
+    padding-bottom: 40px;
+    
+}
+
+
+#itens a {
+    display: block;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.884);
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    box-sizing: border-box;
+   margin-right: 80px;
+   margin-left: 50px;
+}
+
+#itens a:hover{
+    color: black;
+    background-color: white;
+    border: 3px solid rgb(0, 0, 0);
+transform: translate(-1px, -1px);
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+.redes{
+
+    text-align: right;
+    margin-right: 30px;
+}
+
+.redes a  img{
+    width: 40px;
+    border-radius: 50%;
+    margin: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.623);
+    box-sizing: border-box;
+margin-top: 15px;
+}
+
+.redes a img:hover {
+    transition: transform .5s, border .2s;
+    border: 2px solid white;
+transform: translate(-3px, -3px);
+    
+}
+
+
+
+article{
+background-color: rgba(0, 0, 0, 0.541);
+border-radius: 10px;
+margin-bottom: 20px;
+padding-bottom: 10px;
+padding-top: 20px;
+margin-top: 20px;
+}
+
+.texto{
+    background-color: rgba(255, 255, 255, 0.856);
+    color: black;
+    width: 900px;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px black;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+}
+
+
+.texto h2{
+    box-shadow: 2px 2px black;
+}
+
+
+
+footer a h2{
+   background-color: black;
+   width: 200px;
+   border-radius: 20px;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.623);
+box-sizing: border-box;
+text-align: center;
+margin: auto;
+
+}
+
+footer a {
+    text-align: center;
+text-decoration: none;
+
+}
+
+footer a h2:hover {
+  
+    transition: transform 5s, border .5s;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.623);
+    box-sizing: border-box;
+    background-image: url("https://i.pinimg.com/474x/81/2d/af/812daf1018ed2b0b33fa77062c612d75.jpg");
+    background-position: center center;
+}
+https://i.pinimg.com/474x/81/2d/af/812daf1018ed2b0b33fa77062c612d75.jpg
+
+https://product-hub-prd.madeiramadeira.com.br/1180742/images/3523c149-254b-42ab-b07d-cf6f4e4b791149198594papeldeparedeanimaiscachorropetdivertido3mprdit9i3gxhjbw051791800x800.jpg
